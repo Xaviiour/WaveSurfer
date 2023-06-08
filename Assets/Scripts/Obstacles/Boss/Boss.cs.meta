@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2e4e0801e39e8d142b00b3a12d53d179
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - circleShot: {fileID: 8893646064222209392, guid: ef8db503c421b5e42964ebb90b3dcfff, type: 3}
+  - trueCircleShot: {fileID: 1605703721718445428, guid: c3eef783b46cd0743b9f4e48c31f5e12, type: 3}
+  - volley: {fileID: 6879861654311075543, guid: 929c4e56fbcf116439ee5697c92e1053, type: 3}
+  - projectileLauncher: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

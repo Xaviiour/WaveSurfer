@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: bb123e2b673187c4487824bf1fd398e6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HomingShotPrefab: {fileID: 7690230048307945611, guid: 38588d6d710334f10b758360eb1cbd74, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
